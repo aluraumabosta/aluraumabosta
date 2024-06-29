@@ -1,4 +1,11 @@
-## Hi there 👋
+Boas vindas ao meu perfil 💙💙
+Meu nome é Walmir
+
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F606930487277487457%2F&psig=AOvVaw1BCC1yhbvICklpZQ52J_q3&ust=1719768205331000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOixoIGqgYcDFQAAAAAdAAAAABAE)
+
 
 <!--
 **aluraumabosta/aluraumabosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
